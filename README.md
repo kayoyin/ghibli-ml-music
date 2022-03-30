@@ -4,7 +4,7 @@
 
 Kevin Chen, Maya Shen, Kayo Yin, Kenneth Zheng
 
-## Final Composition
+## Final Composition Still
 
 ![final_video_screenshot](./final_video_screenshot.png)
 
